@@ -1,0 +1,14 @@
+/home/jobleet/Desktop/InjectTron/bin/Debug/net8.0/InjectTron
+/home/jobleet/Desktop/InjectTron/bin/Debug/net8.0/InjectTron.deps.json
+/home/jobleet/Desktop/InjectTron/bin/Debug/net8.0/InjectTron.runtimeconfig.json
+/home/jobleet/Desktop/InjectTron/bin/Debug/net8.0/InjectTron.dll
+/home/jobleet/Desktop/InjectTron/bin/Debug/net8.0/InjectTron.pdb
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.GeneratedMSBuildEditorConfig.editorconfig
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.AssemblyInfoInputs.cache
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.AssemblyInfo.cs
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.csproj.CoreCompileInputs.cache
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.dll
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/refint/InjectTron.dll
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.pdb
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/InjectTron.genruntimeconfig.cache
+/home/jobleet/Desktop/InjectTron/obj/Debug/net8.0/ref/InjectTron.dll
